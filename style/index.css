@@ -1,0 +1,35 @@
+body {
+    background-color: #e74c3c;
+}
+.CV {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.CV-Card {
+    width: 600px;
+    height: 300px;
+    background-color: white;
+    text-align: center; 
+    border-radius: 6px;
+    box-shadow: 10px 10px 10px rgb(0 0 0 / 50%);
+}
+.CV-Name {
+    font-size: 2em;
+}
+.CV-Avatar {    
+    margin-top: 20px;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 5px solid #666666;
+    object-fit: cover;
+}
+.CV-Info{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: #666666;
+}
