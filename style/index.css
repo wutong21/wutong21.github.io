@@ -13,7 +13,7 @@ body {
     background-color: white;
     text-align: center; 
     border-radius: 6px;
-    box-shadow: 10px 10px 10px rgb(0 0 0 / 50%);
+    box-shadow: 10px 10px 0px rgb(0 0 0 / 50%);
 }
 .CV-Name {
     font-size: 2em;
