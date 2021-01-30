@@ -19,6 +19,7 @@ body {
     font-size: 2em;
 }
 .CV-Avatar {    
+    cursor: pointer;
     margin-top: 20px;
     width: 120px;
     height: 120px;
@@ -26,10 +27,6 @@ body {
     border: 5px solid #666666;
     object-fit: cover;
 }
-.CV-Info{
-    position: absolute;
-    top: 70%;
-    left: 50%;
-    transform: translate(-50%,-50%);
+.CV-Info{    
     color: #666666;
 }
