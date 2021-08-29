@@ -1,7 +1,7 @@
 ---
 home: true
-heroImage: /hero.png
-heroText: Hero 标题
+heroImage: /yazizhentan.jpeg
+heroText: 
 tagline: 
 actionText: 进入博客 →
 actionLink: /2021/bubble-sort.html#冒泡算法学习记录

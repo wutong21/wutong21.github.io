@@ -1,7 +1,11 @@
 module.exports = {
-  title: '小白球',
+  title: 'Wu Tong',
   base: '/',
   themeConfig: {
-    sidebar: 'auto'
+    nav: [
+      { text: 'Github', link: 'https://github.com/wutong21' },
+    ],
+    sidebar: 'auto',
+    search: true
   }
 }
