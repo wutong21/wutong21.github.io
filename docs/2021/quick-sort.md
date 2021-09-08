@@ -1,10 +1,5 @@
----
-sidebar: auto
-sidebarDepth: 2
-title: '学习记录'
----
-## 快速排序算法学习记录
-单边循环法
+# 快速排序算法学习记录
+
 递归实现
 1. 从左侧开始 mark 是遍历的边界位置，pivot 是基准值 ，与后面的数遍历比较
 <img src="../.vuepress/public/quicksort1.png" alt="quicksort1">

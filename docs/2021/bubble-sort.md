@@ -1,9 +1,4 @@
----
-sidebar: auto
-sidebarDepth: 2
-title: '学习记录'
----
-## 冒泡算法学习记录
+# 冒泡算法学习记录
 <img src="../.vuepress/public/冒泡排序.png" alt="foo">
 
 1. 两层循环

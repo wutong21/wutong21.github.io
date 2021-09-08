@@ -1,5 +1,5 @@
 ---
-home: true
+home: false
 heroImage: /yazizhentan.jpeg
 heroText: 
 tagline: 
@@ -12,3 +12,5 @@ features:
   details: 前端开发
 footer: Copyright © Tong Wu
 ---
+<img src="./.vuepress/public/yazizhentan.jpeg">
+## Copyright © Tong Wu
