@@ -2,6 +2,7 @@ module.exports = {
   title: 'Wu Tong',
   base: '/',
   themeConfig: {
+    lastUpdated: '上一次更新时间',
     nav: [
       { text: 'Github', link: 'https://github.com/wutong21' },
     ],
