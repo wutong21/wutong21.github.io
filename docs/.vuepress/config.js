@@ -19,6 +19,7 @@ module.exports = {
         children: [
           '../2021/bubble-sort.md',
           '../2021/quick-sort.md',
+          '../2021/binary-tree.md',
         ]
       },
     ],
