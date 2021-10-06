@@ -4,6 +4,7 @@ module.exports = {
   themeConfig: {
     lastUpdated: '上一次更新时间',
     nav: [
+      { text: '个人简历', link: 'https://wutong21.github.io/profile/' },
       { text: 'Github', link: 'https://github.com/wutong21' },
     ],
     // sidebar: 'auto',
