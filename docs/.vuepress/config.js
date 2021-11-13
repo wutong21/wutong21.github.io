@@ -21,6 +21,7 @@ module.exports = {
           '../2021/bubble-sort.md',
           '../2021/quick-sort.md',
           '../2021/binary-tree.md',
+          '../2021/binary-tree-层序遍历.md',
         ]
       },
     ],
