@@ -1,5 +1,5 @@
 ---
-home: false
+home: true
 heroImage: /yazizhentan.jpeg
 heroText: 
 tagline: 
@@ -10,7 +10,7 @@ features:
   details: 19年毕业
 - title: 方向
   details: 前端开发
-footer: Copyright © Tong Wu
+footer: Copyright © Wu Tong
 ---
-<img src="./.vuepress/public/yazizhentan.jpeg">
-## Copyright © Tong Wu
+<!-- <img src="./.vuepress/public/yazizhentan.jpeg">
+## Copyright © Tong Wu -->
