@@ -6,7 +6,7 @@ module.exports = {
     nav: [
       { text: '个人简历', link: 'https://wutong21.github.io/profile/' },
       { text: 'Github', link: 'https://github.com/wutong21' },
-      { text: '学习总结', link: 'https://20fv5g.sse.codesandbox.io/' },
+      { text: '学习总结`', link: 'https://gmg0om.sse.codesandbox.io/' },
     ],
     // sidebar: 'auto',
     sidebar: [
